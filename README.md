@@ -1,1 +1,60 @@
-"# MemeGen" 
+"# MemeGen 1.0"
+"# This is the first generation of meme gen! It has many memes"
+"#If you want to not spoil the end of the memes don't scroll down"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"#This is MemeGen 1.0 TROLL. More and actual meme gen coming soon!" 
