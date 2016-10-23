@@ -101,7 +101,7 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(232, 390);
             this.webBrowser1.TabIndex = 6;
-            this.webBrowser1.Url = new System.Uri("http://google.com", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri("https://github.com/LuiGaming/$safeprojectname$", System.UriKind.Absolute);
             // 
             // label5
             // 
